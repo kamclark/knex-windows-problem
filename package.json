@@ -1,0 +1,25 @@
+{
+  "name": "knex-windows-problem",
+  "version": "1.0.0",
+  "description": "- `npm install pg knex` postgres and knex packages will be installed\r - created a postgres database named **whats_on**\r - `npx knex init` created ***knexfile.js***",
+  "main": "knexfile.js",
+  "dependencies": {
+    "knex": "^0.21.11",
+    "pg": "^8.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamclark/knex-windows-problem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamclark/knex-windows-problem/issues"
+  },
+  "homepage": "https://github.com/kamclark/knex-windows-problem#readme"
+}
